@@ -188,7 +188,7 @@ int main() {
     printPostfix(treeRoot);
     cout << endl;
 
-    cout << "Tree: ";//displays the tree
+    cout << "Tree: " << endl;;//displays the tree
     printTree(treeRoot);
 
     cout << "Evaluation Result: " << evaluate(treeRoot) << endl; //displays the evulation
